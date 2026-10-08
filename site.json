@@ -1,0 +1,72 @@
+{
+  "name": "Casa Luna",
+  "tagline": "Trattoria italienne : pâtes fraîches, pizzas au feu de bois, desserts maison",
+  "announcement": "🎉 Soirée musique live tous les vendredis à partir de 20h !",
+  "hero_image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1600",
+  "daily_title": "Tagliatelle al ragù",
+  "daily_text": "Ragù mijoté 4 heures, parmesan 24 mois. Servi midi et soir.",
+  "daily_price": "14 €",
+  "about_title": "Un coin d'Italie près de chez vous",
+  "about_text": "Casa Luna, c'est l'histoire d'une famille originaire de Naples qui partage ses recettes de toujours. Pâtes fraîches faites chaque matin, pâte à pizza levée 48 heures, produits importés directement d'Italie.",
+  "about_image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1000",
+  "highlights": [
+    { "icon": "🍝", "title": "Pâtes fraîches", "text": "Roulées à la main chaque matin dans notre cuisine." },
+    { "icon": "🔥", "title": "Four à bois", "text": "Des pizzas cuites en 90 secondes à 450 °C." },
+    { "icon": "🇮🇹", "title": "Produits d'Italie", "text": "Mozzarella, huile d'olive et vins sélectionnés sur place." }
+  ],
+  "menu": [
+    {
+      "category": "Antipasti",
+      "items": [
+        { "name": "Burrata crémeuse", "description": "Tomates anciennes, basilic, huile d'olive", "price": "12 €" },
+        { "name": "Carpaccio de bœuf", "description": "Roquette, copeaux de parmesan", "price": "13 €" },
+        { "name": "Bruschetta", "description": "Tomate, ail, origan", "price": "8 €" }
+      ]
+    },
+    {
+      "category": "Pizzas",
+      "items": [
+        { "name": "Margherita", "description": "Tomate, mozzarella fior di latte, basilic", "price": "11 €" },
+        { "name": "Diavola", "description": "Salami piquant, mozzarella, piment", "price": "14 €" },
+        { "name": "Quattro Formaggi", "description": "Mozzarella, gorgonzola, parmesan, chèvre", "price": "15 €" }
+      ]
+    },
+    {
+      "category": "Pâtes",
+      "items": [
+        { "name": "Carbonara", "description": "Guanciale, pecorino, jaune d'œuf", "price": "15 €" },
+        { "name": "Lasagnes maison", "description": "Bolognaise, béchamel, gratinées", "price": "16 €" },
+        { "name": "Linguine alle vongole", "description": "Palourdes, ail, vin blanc, persil", "price": "18 €" }
+      ]
+    },
+    {
+      "category": "Desserts",
+      "items": [
+        { "name": "Tiramisu", "description": "La recette de la nonna", "price": "8 €" },
+        { "name": "Panna cotta", "description": "Coulis de fruits rouges", "price": "7 €" }
+      ]
+    }
+  ],
+  "gallery": [
+    "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800",
+    "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
+    "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800"
+  ],
+  "reviews": [
+    { "author": "Julie M.", "text": "La meilleure pizza de la ville, la pâte est incroyable." },
+    { "author": "Karim B.", "text": "Ambiance chaleureuse, on s'y sent comme en Italie." },
+    { "author": "Élodie P.", "text": "Les pâtes fraîches sont un délice, et le service est adorable." }
+  ],
+  "hours": [
+    { "day": "Mardi – Jeudi", "time": "12h–14h30 / 19h–22h" },
+    { "day": "Vendredi – Samedi", "time": "12h–14h30 / 19h–23h30" },
+    { "day": "Dimanche", "time": "12h–15h" },
+    { "day": "Lundi", "time": "Fermé" }
+  ],
+  "address": "8 place du Marché, 59000 Lille",
+  "phone": "03 20 11 22 33",
+  "email": "bonjour@casaluna.fr",
+  "instagram": "https://instagram.com/",
+  "facebook": "https://facebook.com/"
+}
